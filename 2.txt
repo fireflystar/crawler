@@ -1,0 +1,15 @@
+POST http://www.95598.cn/95598/outageNotice/queryOutageNoticeList HTTP/1.1
+Host: www.95598.cn
+Connection: keep-alive
+Content-Length: 116
+Accept: */*
+Origin: http://www.95598.cn
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://www.95598.cn/95598/outageNotice/initOutageNotice
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Cookie: orgNo=10000; orgName=%E6%80%BB%E7%AB%99; cookie-web=34504975; cookie-webcc=97714285; CSWEBSID=Jmg6hvGHGnlyNLw5mPRCvDw0lzrdBMRR!1594935991; _pk_ref.4.9c8b=%5B%22%22%2C%22%22%2C1517241403%2C%22https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DSHrlKcEzHT8KMJZBnzsoXRlsmzol4nfFE-AETILDmBLGfpmOAzLsjO1KbG8c6Ss8dxwBY0iL3vfBiL8u1OnsL5RA9JjrC5DGBbpG8BJzhoa%26wd%3D%26eqid%3Da9da21840000e38b000000045a6f31f9%22%5D; _pk_id.4.9c8b=ec31d99841f06c1f.1514982227.4.1517241403.1517236760.; _pk_ses.4.9c8b=*
+
+orgNo=11401&outageStartTime=2018-01-29&outageEndTime=2018-02-05&scope=&provinceNo=11102&typeCode=&lineName=&anHui=02
